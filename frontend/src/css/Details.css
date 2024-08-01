@@ -1,0 +1,12 @@
+.Details{
+    text-align: center;
+    color: white;
+    background-color: black;
+    height: 100%;
+    width: 50%;
+    font-size: 40px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

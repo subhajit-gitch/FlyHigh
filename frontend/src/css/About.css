@@ -1,0 +1,14 @@
+.details{
+    background-color: aqua;
+    background-position: auto;
+    background-size: 500px;
+    font-size: 1.8rem;
+    height: auto;
+    width: auto;
+    margin: 5rem;
+    color: rgb(2, 9, 107);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: .600rem;
+    border-width: 50px;
+    border-radius: 1000rem;
+}

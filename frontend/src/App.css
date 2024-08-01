@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.Header {
+  text-align: center;
+}
+
+.App .text-wrapper p {
+  color: rgb(255, 253, 253);
+  font-weight: 600;
+  width: 100vw;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+  text-align: left;
+}
+
+
